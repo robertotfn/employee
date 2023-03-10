@@ -1,0 +1,27 @@
+
+<mat-toolbar>
+  <button mat-icon-button class="example-iscon" aria-label="Example icon-button with menu icon" routerLink="">  <span>Dashboard Admin</span>
+  </button>
+</mat-toolbar>
+<p>
+  <mat-toolbar>
+
+   <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon" [matMenuTriggerFor]="menu">
+    <mat-icon>menu</mat-icon>
+
+  </button>
+  <span>Menu</span>
+  <span class="example-spacer"></span>
+  <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item routerLink="sedi" >Progetti</button>
+      <button mat-menu-item routerLink="dipendenti" >Dipendendi</button>
+      <button mat-menu-item>Calendario</button>
+    </mat-menu>
+
+
+    <mat-icon>favorite</mat-icon>
+  </button>
+
+</mat-toolbar>
+</p>

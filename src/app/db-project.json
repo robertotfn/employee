@@ -1,0 +1,35 @@
+{
+  "progetti": [
+    {
+      "nome_progetto": "Unicredit",
+      "numero_senior": 3,
+      "numero_massimo": 10,
+      "id_progetto": 2,
+      "logo" : "https://sicilianews24.it/wp-content/uploads/2015/02/Unicredit-Logo.jpg"
+    },
+    {
+      "nome_progetto": "Fastweb",
+      "numero_senior": 1,
+      "numero_massimo": 5,
+      "id_progetto": 2,
+      "logo": "https://play-lh.googleusercontent.com/1SYd62lmDg6gita4ZZe8mVfVbGGKNHwEtKCVNHQv9LgQ_311tPv9dpmmWS8ZM3uxlrPY"
+    },  {
+      "nome_progetto": "Tim",
+      "numero_senior": 1,
+      "numero_massimo": 23,
+      "id_progetto": 2,
+      "logo": "https://staticfanpage.akamaized.net/wp-content/uploads/sites/6/2016/01/tim-logo-01.png"
+    },  {
+      "nome_progetto": "PosteItaliane",
+      "numero_senior": 1,
+      "numero_massimo": 7,
+      "id_progetto": 2,
+      "logo" : "https://bussola.s3.eu-west-1.amazonaws.com/75003/poste.png"
+    }
+
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

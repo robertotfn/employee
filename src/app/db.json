@@ -1,0 +1,189 @@
+{
+  "posts": [
+    {
+      "nome": "aladino",
+      "ruolo": [
+        "Junior",
+        "Senior",
+        "Admin"
+      ],
+      "email": "grg@h.mail.com",
+      "password": "admin1111",
+      "id": 2
+    },
+    {
+      "nome": "rosa corrado <3",
+      "ruolo": "Junior",
+      "email": "rosacorrado94@gmail.com",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "nome": "roberto tufano",
+      "ruolo": "Admin",
+      "email": "robertotufano19@gmail.com",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "nome": "michele rossi",
+      "ruolo": "Senior",
+      "email": "michele@gmail.com",
+      "password": "12345678",
+      "id": 5
+    },
+    {
+      "nome": "giorgia rossi",
+      "ruolo": "Junior",
+      "email": "giorgia@gmail.com",
+      "password": "12345678",
+      "id": 6
+    },
+    {
+      "nome": "paolo pisacane",
+      "ruolo": "Junior",
+      "email": "paoletto@gmail.com",
+      "password": "12345678",
+      "id": 7
+    },
+    {
+      "nome": "tom cruise",
+      "ruolo": "Senior",
+      "email": "tom@gmail.com",
+      "password": "12345678",
+      "id": 8
+    },
+    {
+      "nome": "Giorgio Vanni",
+      "ruolo": "Junior",
+      "email": "Vanni@gmail.com",
+      "password": "12345678",
+      "id": 9
+    },
+    {
+      "nome": "Faustom Leali",
+      "ruolo": "Senior",
+      "email": "faustino@hhh.it",
+      "password": "46496432798034",
+      "id": 10
+    },
+    {
+      "nome": "Mara Venier",
+      "ruolo": "Senior",
+      "email": "mara@mara.it",
+      "password": "52387239784243",
+      "id": 11
+    },
+    {
+      "nome": "damiano maneskin",
+      "ruolo": "Junior",
+      "email": "mankesin@mnsni.it",
+      "password": "487423924369",
+      "id": 12
+    },
+    {
+      "nome": "pippo baudo",
+      "ruolo": "Senior",
+      "email": "pippo@ancheio.it",
+      "password": "432439784",
+      "id": 13
+    },
+    {
+      "nome": "albano",
+      "ruolo": "Junior",
+      "email": "albano@romina.it",
+      "password": "11111111",
+      "id": 14
+    },
+    {
+      "nome": "chiara ferragni",
+      "ruolo": "Senior",
+      "email": "chiara@insi.it",
+      "password": "483942445",
+      "id": 15
+    },
+    {
+      "nome": "michael jordan",
+      "ruolo": "Junior",
+      "email": "mikele@dfoisdf.it",
+      "password": "2474424742",
+      "id": 16
+    },
+    {
+      "nome": "bugs bunny",
+      "ruolo": "Senior",
+      "email": "juni@fhds.it",
+      "password": "looneytoones",
+      "id": 17
+    },
+    {
+      "nome": "stephan elshaaar",
+      "ruolo": "Junior",
+      "email": "roma@roma.it",
+      "password": "43879723",
+      "id": 18
+    },
+    {
+      "nome": "ilary blasi",
+      "ruolo": "Junior",
+      "email": "ilary@totti.it",
+      "password": "77777777",
+      "id": 19
+    },
+    {
+      "nome": "rosario miraggio",
+      "ruolo": "Junior",
+      "email": "mammt@libero.it",
+      "password": "999999999",
+      "id": 20
+    },
+    {
+      "nome": "gianni morandi",
+      "ruolo": "Junior",
+      "email": "gianni@morandi.it",
+      "password": "48483982",
+      "id": 21
+    },
+    {
+      "nome": "anna pepe",
+      "ruolo": "Junior",
+      "email": "anna@pepe.it",
+      "password": "4897329474",
+      "id": 22
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "progetti": [
+    {
+      "nome_progetto": "Unicredit",
+      "numero_senior": 3,
+      "numero_massimo": 10,
+      "id_progetto": 2,
+      "logo": "https://sicilianews24.it/wp-content/uploads/2015/02/Unicredit-Logo.jpg"
+    },
+    {
+      "nome_progetto": "Fastweb",
+      "numero_senior": 1,
+      "numero_massimo": 5,
+      "id_progetto": 2,
+      "logo": "https://seeklogo.com/images/F/FastWeb-logo-1F0FE35BC7-seeklogo.com.png"
+    },
+    {
+      "nome_progetto": "Tim",
+      "numero_senior": 1,
+      "numero_massimo": 23,
+      "id_progetto": 2,
+      "logo": "https://i0.wp.com/www.centrotimtoplineverona.it/wp-content/uploads/2016/10/cropped-favicon-1.jpg?fit=512%2C512"
+    },
+    {
+      "nome_progetto": "PosteItaliane",
+      "numero_senior": 1,
+      "numero_massimo": 7,
+      "id_progetto": 2,
+      "logo": "https://bussola.s3.eu-west-1.amazonaws.com/75003/poste.png"
+    }
+  ]
+}

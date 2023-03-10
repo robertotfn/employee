@@ -1,0 +1,26 @@
+.title{
+  display: flex;
+  font-size: large;
+  justify-content: center;
+  margin: 5%;
+}
+
+.example-flex-container{
+  display: flex;
+  justify-content: center;
+  column-gap: 10px;
+    padding-right: 21px;
+    padding-bottom: 21px;
+}
+.content {
+  display: flex;
+
+mat-form-field{
+  margin: 10px;
+  width: 100%;
+  max-width: 200px;
+
+}
+}
+
+
